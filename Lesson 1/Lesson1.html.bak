@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+	<html>
+	
+	<head>
+		<title>Lesson1</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="description" content="Description" />
+		<link rel="stylesheet" href="Stylesheet Location" type="text/css" />
+		<script src="js/jQuery.js"></script>
+	</head>
+	
+	<body>
+		<div id="main">	
+			Hello
+		</div>
+		
+		<script src="js/javascript.js" language="javascript" type="text/javascript">
+			</script>
+	</body>
+	
+	</html>
