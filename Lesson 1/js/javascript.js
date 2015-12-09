@@ -2,7 +2,7 @@ var skills =
 	["awesomeness", "programming", "teaching", "JS"];
 	
 //$("#main").append(skills);
-$("#main").append(skills.length)
+//$("#main").append(skills.length)
 
 //var y = "audacity";
 
@@ -31,3 +31,11 @@ $("#main").append(skills.length)
 //var funThoughts = 
 	//	awesomeThoughts.replace("AWESOME", "FUN");
 //$("#main").append(funThoughts);
+
+var bio = {
+		"name" : "james",
+		"age" : 32,
+		"skills" : skills,
+	};
+	
+$("#main").append(bio.name);	
