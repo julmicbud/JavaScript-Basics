@@ -1,8 +1,8 @@
 var skills = 
 	["awesomeness", "programming", "teaching", "JS"];
 	
-$("#main").append(skills);
-$("#main").append(skills[0]);
+//$("#main").append(skills);
+$("#main").append(skills.length)
 
 //var y = "audacity";
 
