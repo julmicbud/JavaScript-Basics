@@ -1,9 +1,15 @@
-var y = "audacity";
+var skills = 
+	["awesomeness", "programming", "teaching", "JS"];
+	
+$("#main").append(skills);
+$("#main").append(skills[0]);
 
-var x = y.slice(1).toUpperCase()
-var a = x.slice(0, 1) + y.slice(2)
+//var y = "audacity";
 
-document.write(a)
+//var x = y.slice(1).toUpperCase()
+//var a = x.slice(0, 1) + y.slice(2)
+
+//document.write(a)
 
 
 //var firstName ="julia";
